@@ -6,6 +6,8 @@ void main() {
 
  System.out.println("yeferson pachon,c++");
 
+ System.out.println("arreglo");
+
 
 
 
